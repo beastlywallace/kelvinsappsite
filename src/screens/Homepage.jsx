@@ -23,12 +23,12 @@ export default function HomePage() {
             backgroundSize: "contain",
             backgroundPosition: "50% 50%",
           }}
-          className="absolute inset-0 bg-black bg-opacity-50 w-full"
+          className="absolute inset-0 bg-black bg-opacity-50 w-full "
         ></div>
 
-        <div className="relative z-10 text-center px-4 w-full mt-1.5">
+        <div className="relative z-10 text-center px-4 w-full mt-1.5 ">
           <motion.div
-            className="mb-8 w-full"
+            className="mb-8 w-full "
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 1, ease: "easeOut" }}
@@ -36,7 +36,7 @@ export default function HomePage() {
           </motion.div>
 
           <motion.h1
-            className="text-5xl md:text-7xl font-bold text-white mb-4"
+            className="text-5xl md:text-7xl font-bold text-white mb-120 "
             initial={{ y: -50, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ duration: 1, delay: 0.5 }}
