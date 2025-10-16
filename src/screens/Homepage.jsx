@@ -50,7 +50,7 @@ export default function HomePage() {
             animate={{ opacity: 1 }}
             transition={{ duration: 1, delay: 1 }}
           >
-            Mic in hand, jokes on Sound.
+           Worship minister / Comedian
           </motion.p>
         </div>
       </section>

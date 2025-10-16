@@ -70,7 +70,7 @@ export default function ContactPage() {
             <div className="bg-gray-900 p-8 rounded-lg">
               <Mail size={48} className="text-red-500 mx-auto mb-4" />
               <h3 className="text-xl font-bold mb-2">Email</h3>
-              <p className="text-gray-300">akonakpevwe@gmail.com</p>
+              <p className="text-gray-300">kelvinsappbookings@gmail.com</p>
             </div>
           </div>
 
